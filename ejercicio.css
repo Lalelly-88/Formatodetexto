@@ -1,0 +1,34 @@
+/* ackground-color red */
+.imperio {
+    background-color: red;
+}
+/* background-color blue*/
+.rebeldes {
+    background-color: blue;
+}
+
+/* ID para Darth Vader */
+#darth-vader {
+    font-size: 1.5em;
+}
+
+/* ID para Luke Skywalker */
+#luke-skywalker {
+    font-style: italic;
+}
+
+/* CSS border + CSS letter-spacing */
+.soldado {
+    border: 2px dashed black;
+    letter-spacing: 2px;
+}
+
+/* CSS text-align */
+.apoyo {
+    text-align: center;
+}
+
+/* mayúsculas */
+.nave {
+    text-transform: uppercase;
+}
